@@ -1,1 +1,8 @@
-# Task-1-Algorithmic-Trading-Adventure
+###Algorithmic Trading Adventure
+
+- A Python-based algorithmic trading system with a $5000 budget.
+- Class-based design for flexibility and modularity.
+- Uses `yfinance` to download historical stock data.
+- Computes 50-day and 200-day moving averages.
+- Detects **golden cross signals** to take buy/sell actions.
+- Calculates profits/losses and evaluates the strategy’s performance.
